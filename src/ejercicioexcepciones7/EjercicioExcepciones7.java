@@ -15,6 +15,7 @@ public class EjercicioExcepciones7 {
      */
     public static void main(String[] args) {
         System.out.println("probando git");
+        System.out.println("probando git");
         // TODO code application logic here
     }
     
